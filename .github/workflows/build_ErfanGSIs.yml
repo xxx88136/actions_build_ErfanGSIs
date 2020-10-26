@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://fs.oppo.com/3/oppowww/androidrom/710q/PDEM30_11_OTA_0030_all_ryyya0ZVk8DT_format_findx2pro.ozip
-  ROM_NAME: OPPO_gsi
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
